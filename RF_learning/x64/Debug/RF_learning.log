@@ -1,0 +1,40 @@
+﻿  Engine.cpp
+D:\Cpp scripts\RF_learning\Map.h(37,9): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(37,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(37,23): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Engine.cpp(12,9): warning C4200: nonstandard extension used: zero-sized array in struct/union
+      D:\Cpp scripts\RF_learning\Engine.cpp(12,9):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+D:\Cpp scripts\RF_learning\Engine.cpp(18,33): error C2039: 'blocks': is not a member of 'mapNamespace::Map'
+      D:\Cpp scripts\RF_learning\Map.h(34,8):
+      see declaration of 'mapNamespace::Map'
+  
+  Map.cpp
+D:\Cpp scripts\RF_learning\Map.h(37,9): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Map.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(37,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Map.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(37,23): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Map.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.cpp(8,2): error C2065: 'blocks': undeclared identifier
+D:\Cpp scripts\RF_learning\Map.cpp(12,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Cpp scripts\RF_learning\Map.cpp(13,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Cpp scripts\RF_learning\Map.cpp(14,3): error C2065: 'blocks': undeclared identifier
+D:\Cpp scripts\RF_learning\Map.cpp(21,18): error C2065: 'blocks': undeclared identifier
+D:\Cpp scripts\RF_learning\Map.cpp(21,13): error C2512: 'Block': no appropriate default constructor available
+      D:\Cpp scripts\RF_learning\Map.h(18,8):
+      see declaration of 'Block'
+  
+D:\Cpp scripts\RF_learning\Map.cpp(21,16): error C2143: syntax error: missing ';' before ':'
+D:\Cpp scripts\RF_learning\Map.cpp(21,24): error C2143: syntax error: missing ';' before ')'
+  Generating Code...

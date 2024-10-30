@@ -1,0 +1,37 @@
+﻿  Engine.cpp
+D:\Cpp scripts\RF_learning\Map.h(44,4): error C2065: 'cout': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(58,4): error C2065: 'string': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(58,11): error C2146: syntax error: missing ';' before identifier 'x'
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(58,11): error C2065: 'x': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(58,15): error C3861: 'to_string': identifier not found
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(59,4): error C2065: 'string': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(59,11): error C2146: syntax error: missing ';' before identifier 'y'
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(59,11): error C2065: 'y': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(59,15): error C3861: 'to_string': identifier not found
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(60,4): error C2065: 'cout': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(60,12): error C2065: 'x': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
+D:\Cpp scripts\RF_learning\Map.h(60,23): error C2065: 'y': undeclared identifier
+  (compiling source file 'Engine.cpp')
+  
